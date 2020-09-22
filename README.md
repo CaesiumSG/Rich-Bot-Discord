@@ -1,0 +1,2 @@
+# Rich Bot Discord
+ yes
