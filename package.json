@@ -1,0 +1,37 @@
+{
+  "name": "socialist_utiliy_bot",
+  "version": "1.0.0",
+  "description": "A Test",
+  "main": "bot.js",
+  "scripts": {
+    "test": "*test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "Liquid Caesium#7376 (Brian Sng)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "canvas": "^2.6.1",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "discord.js-pagination": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.7.3",
+    "eslint": "^7.9.0",
+    "eslint-config-google": "^0.14.0",
+    "fs": "0.0.1-security",
+    "mathjs": "^7.2.0",
+    "moment": "^2.28.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "weather-js": "^2.0.0"
+  }
+}
